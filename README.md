@@ -10,11 +10,11 @@ At the heart of the app interface, a virtual character serves as the user's conv
 
 1. Scenario-Based Learning: The app includes a variety of scenarios for users to select and engage with, ranging from everyday life situations to specific academic or professional contexts. These include:
 
-Everyday Life: Restaurant, supermarket, shopping, car purchase, car rental, house rental, setting up a bank account, acquiring a SIM card, hospital visits.
-Travel: Airline check-in, on-board the plane, customs, asking for directions, hotel reservation, hotel check-in.
-Academic: Interactions with a librarian, club activities, presentations, group tasks.
-Professional: Job interviews, interacting with colleagues.
-Custom Scenario: Users can input their own topics for conversation (non-politics related).
+- Everyday Life: Restaurant, supermarket, shopping, car purchase, car rental, house rental, setting up a bank account, acquiring a SIM card, hospital visits.
+- Travel: Airline check-in, on-board the plane, customs, asking for directions, hotel reservation, hotel check-in.
+- Academic: Interactions with a librarian, club activities, presentations, group tasks.
+- Professional: Job interviews, interacting with colleagues.
+- Custom Scenario: Users can input their own topics for conversation (non-politics related).
 
 2. Freestyle Conversation: Beyond scenario-based learning, the app offers an open-ended conversation mode where users can engage in casual chats on a variety of topics with the virtual character.
 
